@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Board } from "../constants/board";
+import { Board } from "../../constants/board";
 import dayjs from "dayjs";
 
 const Read = () => {
