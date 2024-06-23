@@ -1,2 +1,1 @@
-# next-board
-CRUD STUDY
+이건 조뽀둥이야
