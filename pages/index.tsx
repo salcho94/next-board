@@ -1,4 +1,5 @@
 // pages/index.tsx
+import Link from "next/link";
 import Read from "./Read";
 
 export default function Home() {
@@ -6,6 +7,7 @@ export default function Home() {
     <div>
       <h1>뽀동이의 게시판</h1>
       <Read />
+      <Link href={"./create"}>글쓰기</Link>
     </div>
   );
 }
